@@ -1,5 +1,3 @@
-#Group 18
-
 
 Input Format:
 
